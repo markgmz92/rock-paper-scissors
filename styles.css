@@ -53,3 +53,26 @@ header>h1 {
     top: 30 px;
     right: -30px;
 }
+
+.result {
+    font-size: 40px;
+    color: white;
+}
+
+.result>p {
+    text-align: center;
+    font-weight: bold;
+    font-family: Asap. sans-serif;
+}
+
+.choices {
+    margin: 50 px 0;
+    text-align: center;
+}
+
+.choice {
+    border: 4px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;
+}
